@@ -1,0 +1,100 @@
+body
+{
+    background-color:lightyellow;
+}
+
+.btn
+{
+    margin-left: 43%;
+    margin-top: 25px;
+    background-color: violet;
+    color: white;
+    padding: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.ttl
+{
+    font-size: 30px;
+    background-color: thistle;
+    width: 30%;
+    text-align: center;
+    padding: 11px;
+    margin-left: 33%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+    border-radius: 4px;
+    box-shadow: 2px 3px 3px lightslategray;
+}
+
+.block
+{
+    width:100px;
+    height: 100px;
+    background-color: ghostwhite;
+    border: 1px solid gray;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    box-shadow: 2px 3px 3px gray;
+}
+
+.block:hover
+{
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid white;
+}
+
+.row
+{
+    display: flex;
+}
+
+.content
+{
+     margin-left:38%;
+     margin-top: 3%;
+     
+}
+
+.result
+{
+    background-color: gold;
+    width: 30%;
+    text-align: center;
+    padding: 11px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+form
+{
+    margin-left: 30px;
+}
+
+.felement
+{
+    margin: 5px;
+}
+
+label
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+input
+{
+    border: none;
+    background-color: lightyellow;
+    border-bottom: 1px solid black;
+    outline: none;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    width: 80px;
+    color:blueviolet
+}
